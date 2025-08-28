@@ -36,7 +36,7 @@ invalid; AXBCD is valid)
 2. All five characters cannot form a sequence (like: ABCDE, BCDEF is
 invalid; ABCDX is valid)
 
-# The next four characters should be numeric (digits).
+The next four characters should be numeric (digits).
 1. Adjacent characters(digits) cannot be the same (like 1123 is invalid;
 1923 is valid)
 2. All four characters cannot form a sequence (like: 1234, 2345)
